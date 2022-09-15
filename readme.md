@@ -395,11 +395,6 @@ $ composer test
 Please see [contributing.md](contributing.md) and open tickets for details and a todolist.
 
 
-## Credits
-
-- [Bálint Vass][link-author]
-- [All Contributors][link-contributors]
-
 ## License
 
 MIT. Please see the [license file](license.md) for more information.
